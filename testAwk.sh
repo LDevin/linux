@@ -73,3 +73,6 @@ echo "打印cmdFind:"$cmdFind
 cmdFind=$(cat ./stu.txt | awk '$1 ~/^\/h/{print NF":"NR":"$0}')
 echo "打印cmdFind:"$cmdFind
 
+
+#####vim 快捷鍵:命令模式下(dd:刪除光標所在整行, gg:跳到文首,G:跳到文尾, 0: 跳到行首,$:跳到行尾, e,E,b)
+

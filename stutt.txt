@@ -1,0 +1,11 @@
+devin 1 30 廣東 深圳 120 refd
+jim 12 30 廣東 廣州 230 fjkd
+green 12 12 廣東 惠州 230 nnndd
+tom 123 30 廣東 韶關 230 xxsfd
+toms 123 34 廣東 龍川 230 n3fsd
+phish 12 330 北京 廣州 230 uuij
+toms 123 34 廣東 龍川 230 3fsd
+phdish 12 330 北京 廣州 20 xuuij
+tomss 123 34 廣東 龍川 23022 w3fsd
+phiddsh 12 330 北京 廣州 20 uxuij
+/home 55 666 江西 贛州 55 uuuhj
