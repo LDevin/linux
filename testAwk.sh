@@ -76,3 +76,10 @@ echo "打印cmdFind:"$cmdFind
 
 #####vim 快捷鍵:命令模式下(dd:刪除光標所在整行, gg:跳到文首,G:跳到文尾, 0: 跳到行首,$:跳到行尾, e,E,b)
 
+cmdFind=$(cat ./stu.txt | awk '{if (NR>3) {print $NF}}')
+echo "打印cmdFind:"$cmdFind
+
+#指定多個分隔符[]
+cmdFind=$(awk -F '[:#]' '{print $1":"$2":"$3}' hehe.txt)
+echo "打印cmdFind:"$cmdFind
+
